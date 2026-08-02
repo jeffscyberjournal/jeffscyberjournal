@@ -11,6 +11,7 @@ As part of my journey through cybersecurity, this repository serves as a space t
 # Contents:
 ## [About My Experience So Far](https://github.com/jeffscyberjournal/About-my-experience-so-far)
 - [CTF write ups](https://github.com/jeffscyberjournal/CTFbin)
+- SOC and Pentesting related learning modules](https://github.com/jeffscyberjournal/THM_Learning_Modules_Techniques_-_General_Learning)
 ## [HomeLab Progression](https://github.com/jeffscyberjournal/HomeLab_Progression)
 
 - [Hardware Progression](https://github.com/jeffscyberjournal/Hardware_Progression)  
