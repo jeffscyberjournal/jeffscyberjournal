@@ -9,7 +9,8 @@ Technically skilled and forensic-minded, I'm an IT and cybersecurity professiona
 As part of my journey through cybersecurity, this repository serves as a space to showcase recent experiences, technologies I've worked with, and general IT and security-related projects I've explored. Each entry reflects the context and considerations that were important to me at the time—whether it was deepening technical understanding, experimenting with new tools, or tackling challenges that shaped my learning. This collection is both a personal archive and a practical demonstration of growth through hands-on engagement.
 
 # Contents:
-## [About My Experience So Far](https://github.com/jeffscyberjournal/About-my-experience-so-far)
+## About My Experience So far
+- [Career Summary](https://github.com/jeffscyberjournal/About-my-experience-so-far)
 - [Completed CTF Summary List](https://github.com/jeffscyberjournal/CTFbin)
 - [SOC and Pentesting related learning modules summary list](https://github.com/jeffscyberjournal/THM_Learning_Modules_Techniques_-_General_Learning)
 
