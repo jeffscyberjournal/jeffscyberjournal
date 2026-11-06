@@ -14,7 +14,7 @@ As part of my journey through cybersecurity, this repository serves as a space t
 - [Completed CTF Summary List](https://github.com/jeffscyberjournal/CTFbin)
 - [SOC and Pentesting related learning modules summary list](https://github.com/jeffscyberjournal/THM_Learning_Modules_Techniques_-_General_Learning)
 
-## [HomeLab Progression](https://github.com/jeffscyberjournal/HomeLab_Progression)
+## Continuous Learning and Experimentation
 - [Hardware Progression](https://github.com/jeffscyberjournal/Hardware_Progression)  
 - [Troubles Encountered and Their Resolution](https://github.com/jeffscyberjournal/Troubles_Encountered_and_their_resolution)  
 - [Wazuh Siem Experience](https://github.com/jeffscyberjournal/Wazuh-Siem)  
