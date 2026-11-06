@@ -10,7 +10,7 @@ As part of my journey through cybersecurity, this repository serves as a space t
 
 # Contents:
 ## About My Experience So far
-- [Career Summary](https://github.com/jeffscyberjournal/About-my-experience-so-far)
+- [Career Summary - Related Work and Education](https://github.com/jeffscyberjournal/About-my-experience-so-far)
 - [Completed CTF Summary List](https://github.com/jeffscyberjournal/CTFbin)
 - [SOC and Pentesting related learning modules summary list](https://github.com/jeffscyberjournal/THM_Learning_Modules_Techniques_-_General_Learning)
 
